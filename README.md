@@ -1,5 +1,5 @@
 <h2>Projeto de Classificação do Herói 🦸</h2>
-<p>Nesse projeto o arquivo index.js contem um codigo</p>
+<p>Neste projeto o arquivo dentro da pasta src contem um arquivo js</p>
 <p>que conforme alterarmos a variável "XpHerói" ele identifica qual o nível do personagem</p>
 
 <hr>
