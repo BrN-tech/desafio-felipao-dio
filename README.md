@@ -1,6 +1,6 @@
 <h2>Projeto de Classificação do Herói 🦸</h2>
 <p>Neste projeto o arquivo dentro da pasta src contem um arquivo js</p>
-<p>que conforme alterarmos a variável "XpHerói" ele identifica qual o nível do personagem</p>
+<p>que conforme alterar a variável "XpHerói" ele identifica qual o nível do personagem se baseando na tabela abaixo</p>
 
 <hr>
 
